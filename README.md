@@ -50,3 +50,4 @@ Refer to the official resource-packs instructions -
 * melkypie - creating the resource pack plugin
 * Shredit - creating the 2012 resource pack, which served as a base and inspiration.
 * RuneScape Wiki - resources, info, assets and historical record of UI changes.
+* Frankz - Creator of this pack
